@@ -1,4 +1,5 @@
 box: ubuntu
+command-timeout: 60
 build:
   steps:
     - script:
